@@ -14,6 +14,9 @@ const AuthorBook = require('./models/AuthorBook');
 const app = express();
 app.use(bodyParser.json());
 
+const cors = require('cors');
+app.use(cors());
+
 const SECRET_KEY = "clave_secreta_segura";
 
 // Conectar a MongoDB
