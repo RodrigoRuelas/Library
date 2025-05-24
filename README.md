@@ -69,4 +69,5 @@ Despues, vamos a ejecutar los siguientes pasos.
  **10. Abrir en el navegador**  
    Abre tu navegador y accede a la siguiente URL:  
    🔗 ([http://localhost:5173/login](http://localhost:5173/login))
+   
    Una vez dentro de la URL, estaremos dentro del proyecto por el frontend.
