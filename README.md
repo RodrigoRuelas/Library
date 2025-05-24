@@ -9,6 +9,7 @@ API REST para gestionar libros, autores y sus relaciones, con autenticación JWT
 - **Node.js** (v14+ recomendada)
 - **MongoDB** (en local o remoto)
 - Cliente API para probar (Postman, Insomnia, cURL, etc.)
+- **Vue.js** como Frontend
 
 ---
 
