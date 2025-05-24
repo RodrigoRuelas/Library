@@ -14,28 +14,59 @@ API REST para gestionar libros, autores y sus relaciones, con autenticación JWT
 
 ## Instalación
 
-1️⃣ **Clonar el repositorio**  
+ **1. Clonar el repositorio**  
    Ejecuta el siguiente comando en la terminal:  
    ```bash
    git clone https://github.com/RodrigoRuelas/iw-25a.git
    ```
 
-2️⃣ **Acceder a la carpeta del proyecto**  
+ **2. Acceder a la carpeta del proyecto**  
    ```bash
    cd Library
    ```
 
-3️⃣ **Acceder a la carpeta del proyecto**
+ **3. Acceder a la carpeta del proyecto**
    ```bash
    cd Biblioteca
    ```
 
-4️⃣ **Instalar las dependencias**
+ **4. Instalar las dependencias**
    ```bash
    npm install
    ```
 
-5️⃣ **Ejecutamos el proyecto**
+ **5. Ejecutamos el proyecto**
    ```bash
    nodemon app.js
    ```
+
+Con esto, ejecutamos el backend del proyecto Autores y Libros.
+
+Ahora procedemos a ejecutar el frontend del proyecto, para ello, hay que mantener el backend del proyecto en ejecucion. 
+
+Despues, vamos a ejecutar los siguientes pasos.
+ 
+ **6. Ejecutamos el proyecto**
+   ```bash
+   cd Library
+   ```
+ 
+ **7. Acceder a la carpeta del proyecto**
+   ```bash
+   cd frontend
+   ```
+ 
+ **8. Instalar las dependencias**
+   ```bash
+   npm install
+   ```
+ 
+ **9. Ejecutamos el proyecto**
+   ```bash
+   npm run dev
+   ```
+ 
+ **10. Abrir en el navegador**  
+   Abre tu navegador y accede a la siguiente URL:  
+   🔗 ([http://localhost:5173/login](http://localhost:5173/login))
+   Una vez dentro de la URL, estaremos dentro del proyecto por el frontend.
